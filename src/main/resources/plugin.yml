@@ -1,0 +1,9 @@
+name: WinterlandPlus
+version: '${project.version}'
+main: com.pequla.winterland.WinterlandPlus
+api-version: '1.20'
+prefix: Winterland
+load: STARTUP
+depend: [LuckPerms]
+authors: [Pequla]
+description: Winterland class based link

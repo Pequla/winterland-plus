@@ -1,0 +1,5 @@
+mysql:
+  host: localhost:3306
+  database: dbname
+  user: username
+  password: password
